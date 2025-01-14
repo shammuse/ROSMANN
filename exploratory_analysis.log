@@ -1,0 +1,6 @@
+2025-01-14 15:46:19,857 - INFO - Datasets loaded successfully
+2025-01-14 15:46:20,889 - INFO - Datasets merged successfully
+2025-01-14 15:46:20,889 - INFO - Datasets loaded successfully
+2025-01-14 15:46:21,295 - INFO - Missing values handled in the dataset
+2025-01-14 15:46:21,434 - INFO - Outliers handled for Sales using z-scores
+2025-01-14 15:46:21,450 - INFO - Missing values handled in the test dataset
