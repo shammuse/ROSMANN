@@ -1,3 +1,3 @@
-/.test/gitattributes/
-/.backup-repo.git/
-/app/model/Random_Forest_24-09-2024-11-30-11.pkl
+.test/gitattributes/
+.backup-repo.git/
+app/model/Random_Forest_24-09-2024-11-30-11.pkl
