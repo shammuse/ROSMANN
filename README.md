@@ -61,7 +61,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ElbetelTaye/Predictive_Pharmaceutical_data_analysis.git
+   git clone https://github.com/shammuse/ROSMANN.git
    ```
 
 2. **Navigate into the project directory**:
@@ -111,8 +111,4 @@ Contributions to improve the project are welcome! To contribute:
 3. Submit a pull request with a detailed description of the changes.
 
 Feel free to open issues for bugs, feature requests, or general questions.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 
